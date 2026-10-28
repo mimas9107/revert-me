@@ -8,3 +8,4 @@
 | 警衛室 | — | 900 |
 edited by mimas9107 practice
 add new intern student contact.
+add new intern studnet contact2.
