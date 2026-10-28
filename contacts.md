@@ -7,3 +7,4 @@
 | 值班醫師 | 周醫師 | 305 |
 | 警衛室 | — | 900 |
 edited by mimas9107 practice
+add new intern student contact.
